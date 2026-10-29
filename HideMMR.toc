@@ -4,5 +4,6 @@
 ## Notes-ruRU: Скрывает PvP-рейтинг, MMR и изменения рейтинга, чтобы цифры не влияли на менталку
 ## Author: Cryogenics
 ## Version: @project-version@
+## X-Curse-Project-ID: 1772107
 
 HideMMR.lua

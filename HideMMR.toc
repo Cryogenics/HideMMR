@@ -1,0 +1,8 @@
+## Interface: 120105
+## Title: HideMMR
+## Notes: Hides PvP rating, MMR and rating changes to keep your mental out of the numbers
+## Notes-ruRU: Скрывает PvP-рейтинг, MMR и изменения рейтинга, чтобы цифры не влияли на менталку
+## Author: Cryogenics
+## Version: @project-version@
+
+HideMMR.lua

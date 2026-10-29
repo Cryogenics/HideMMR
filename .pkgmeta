@@ -1,0 +1,5 @@
+package-as: HideMMR
+
+ignore:
+  - README.md
+  - .github
